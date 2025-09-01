@@ -1,1 +1,1 @@
-[Live Dashboard Link](@)
+[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMmUyNzA5OGEtYWNlYi00ZTlhLWJmN2YtMjUyOTNlNDE1MzQzIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9)
